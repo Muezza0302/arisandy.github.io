@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+}
+li{
+    list-style: none;
+    width: 20%;
+    line-height: 40px;
+}
+li a{
+    color: white;
+}
+li a:hover{
+   text-decoration: none;
+   color: #FFBEA8;
+}
